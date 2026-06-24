@@ -34,6 +34,4 @@ This app **does not automatically read ChatGPT limits**. It is a private/manual 
 2. Tap the three-dot menu.
 3. Tap **Add to Home screen** or **Install app**.
 
-## Brand
 
-Logo, colour vibe, and icon are from the Dolan Friendly Services Draft 4 logo pack.
